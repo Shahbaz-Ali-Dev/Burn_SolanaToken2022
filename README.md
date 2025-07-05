@@ -10,7 +10,7 @@ Welcome to the **Solana Token 2022 Burn DApp**! This application allows users to
 
 ## 📖 Project Info
 
-**URL**: [Burn_SolanaToken2022](https://github.com/CodeWithAbbass/Burn_SolanaToken2022)
+**URL**: [Burn_SolanaToken2022](https://github.com/Shahbaz-Ali-Dev/Burn_SolanaToken2022)
 
 ---
 
